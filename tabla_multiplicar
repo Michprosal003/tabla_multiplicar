@@ -1,0 +1,12 @@
+Algoritmo tabla_multiplicar
+	
+	Escribir "Ingresa un Numero del 1-12:"
+	Leer Num
+	Para Cont <-1 Hasta  12 Con paso 1 Hacer
+		Escribir  Num "X" cont "=" ( Num *Cont)
+		
+	FinPara
+
+
+	
+FinAlgoritmo
